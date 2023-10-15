@@ -1,0 +1,20 @@
+.formlink{
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  font-weight: 600;
+  display: inline-block;
+  padding-bottom: 80px;
+  padding-top: 20px;
+}
+.tablelink{
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+  font-weight: 600;
+}
+.sidebar{
+  background-color: aliceblue;
+  height: 100vh;
+  padding: 20px 40px;
+}
